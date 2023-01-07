@@ -2,7 +2,7 @@
 
 This chatbot server is built using Express.js and is designed to assist with various banking tasks. The chatbot can be integrated with platforms such as Slack and Facebook Messenger, providing a convenient way for users to interact with their bank.
 
-The server connects to a database to store and retrieve user information and uses natural language processing (NLP) techniques to understand the intent of the user's message and determine how to respond.
+The server connects to a Rest API's to store and retrieve user information and uses natural language processing (NLP) techniques to understand the intent of the user's message and determine how to respond.
 
 To get started with the chatbot, clone this repository and follow the instructions below.
 
