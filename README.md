@@ -31,5 +31,7 @@ npm start
 ```
 This will start the chatbot server and make it listen for incoming messages on the port number you specified in the .env file.
 
++ Make sure you have a Spring Boot REST API server running and available for the chatbot server to connect to.
+
 + Test the chatbot by sending it a message through the chat platform you have integrated it with (such as Slack or Facebook Messenger).
 
